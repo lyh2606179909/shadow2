@@ -1,7 +1,7 @@
 # penetration
 ### 收集的渗透资料，现在分享一下
 
-地址https://github.com/w1109790800原文地址
+地址https://github.com/lyh2606179909
 
 
 pg)## 目录结构
